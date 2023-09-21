@@ -44,6 +44,7 @@ int main(){
                 min2= result[i];
             }
         }
+    
     printf("Min = %d\n",min);
     printf("2nd Min = %d\n",min2);
 
